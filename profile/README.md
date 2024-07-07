@@ -1,4 +1,4 @@
-# Welcome to Qareeb.io
+# Welcome to Qareeb
 
 ![Qareeb.io Banner](https://i.imgur.com/ba2FTxV.png)
 
