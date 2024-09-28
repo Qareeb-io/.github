@@ -20,4 +20,4 @@ Qareeb.io is dedicated to revolutionizing project monitoring through AI and edge
 To get started with our projects, [you can request a demo](https://qareeb.io/contact)
 
 ## Contact Us
-For more information, visit our [website](https://qareeb.io) or contact us at [support@qareeb.io](mailto:contact@qareeb.io).
+For more information, visit our [website](https://qareeb.io) or contact us at [contact@qareeb.io](mailto:contact@qareeb.io).
